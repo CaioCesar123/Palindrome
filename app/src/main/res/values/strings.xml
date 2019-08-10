@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+    <string name="palin">Escreva uma frase ou palavras</string>
+    <string name="input_testo">Escreva Aqui!!</string>
+    <string name="verificar">Verificar</string>
+    <string name="palindrome">Palindrome</string>
+</resources>
